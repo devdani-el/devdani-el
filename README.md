@@ -1,6 +1,7 @@
 ## Hello! I'm Daniel Augusto
 - 👀 I’m interested in Back-end and Machine Learning.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
+- 🎡 I hope you guys enjoy my repositories posted here.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
