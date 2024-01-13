@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0038b8&height=120&section=header"/>
-
 ## Hello! I'm Daniel Augusto
 - 👀 I’m interested in Back-end and Machine Learning.
 - 🌱 I’m currently learning Python.
